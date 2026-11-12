@@ -1,0 +1,18 @@
+{
+  "nombres": {
+    "aseo_personal": "aseo personal",
+    "cocina": "cocina",
+    "inodoro": "inodoro",
+    "lavado_ropa": "lavado de ropa",
+    "limpieza_vivienda": "limpieza de la vivienda"
+  },
+  "consejos": {
+    "aseo_personal": "Baños más cortos, cierra la llave al enjabonarte y al cepillarte los dientes. Revisa que la ducha no gotee.",
+    "cocina": "Lava los platos con la llave cerrada mientras enjabonas, descongela sin agua corriente y reutiliza el agua de lavar verduras para las plantas.",
+    "inodoro": "Un consumo alto aquí suele ser una FUGA en el tanque. Echa colorante en el tanque: si aparece en la taza sin descargar, hay fuga.",
+    "lavado_ropa": "Lava solo con carga completa y usa el ciclo de ahorro de agua.",
+    "limpieza_vivienda": "Usa balde en vez de manguera para pisos, patios y lavado del carro.",
+    "general": "Revisa llaves, tanques y mangueras en busca de fugas y verifica si hubo visitas o actividades fuera de lo normal en casa.",
+    "general_bajo": "Fue un día con muy poco consumo: confirma que el sensor siga enviando datos o si hubo una ausencia en casa."
+  }
+}
